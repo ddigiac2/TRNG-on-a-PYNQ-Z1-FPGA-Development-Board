@@ -23,7 +23,7 @@ A cellular automata is composed of λ identical cellular automata elements, that
 # Tutorial Hardware Setup 
 - A Digilent PYNQ-Z1 Zynq-7000s ARM FPGA Development Board is necessary
 - A Micro-USB to USB-A cable is necessary. The USB-A side will be plugged into the PC and the Micro-USB side will be plugged into the PROG UART port on the board for programming. 
-     - Ensure that the jumper on the connector above the PROG UART port on the board is set-up for JTAG programming. This allows the device to read from the Micro        USB port rather than the Micro-SD slot on the bottom of the board 
+  - Ensure that the jumper on the connector above the PROG UART port on the board is set-up for JTAG programming. This allows the device to read from the Micro        USB port rather than the Micro-SD slot on the bottom of the board 
 - An external AC power supply is necessary. The barrel jack of the AC power supply can be plugged into the barrel jack on the board. 
      - Ensure that the jumper on the connector J5 is set-up for REG 
 - A CP2102 USB to TTL adapter module along with two female to male jumper wires are necessary. This will be used for receiving TRNG output values to PC for statistical analysis 
