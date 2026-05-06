@@ -27,8 +27,8 @@ A cellular automata is composed of λ identical cellular automata elements, that
 - An external AC power supply is necessary. The barrel jack of the AC power supply can be plugged into the barrel jack on the board. 
      - Ensure that the jumper on the connector J5 is set-up for REG 
 - A CP2102 USB to TTL adapter module along with two female to male jumper wires are necessary. This will be used for receiving TRNG output values to PC for statistical analysis
--     The USB-A side will be plugged into the PC 
-      - The first jumper wire will be connecting the Rx pin on the CP2102 module and the upper-left most pin on the header PMOD JA 
-      - The second jumper wire will be connecting the GND pin on the CP2102 module and the upper GND pin on the header PMOD JA 
+    - The USB-A side will be plugged into the PC 
+    - The first jumper wire will be connecting the Rx pin on the CP2102 module and the upper-left most pin on the header PMOD JA 
+    - The second jumper wire will be connecting the GND pin on the CP2102 module and the upper GND pin on the header PMOD JA 
 o The second jumper wire will be connecting the GND pin on the CP2102 module 
 and the upper GND pin on the header PMOD JA
