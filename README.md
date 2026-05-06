@@ -34,9 +34,9 @@ o The second jumper wire will be connecting the GND pin on the CP2102 module
 and the upper GND pin on the header PMOD JA
 
 # Creating the TRNG Design in Vivado
-Please see: Vivado-Src-Files
+Please see: [Vivado-Src-Files](https://github.com/ddigiac2/TRNG-on-a-PYNQ-Z1-FPGA-Development-Board/tree/main/Vivado-Src-Files)
 
 # Validating Design and Programming Device in Vivado
 
 # Analyzing TRNG Output Data with Entropy
-Please see:
+Please see: [Python-Analysis](https://github.com/ddigiac2/TRNG-on-a-PYNQ-Z1-FPGA-Development-Board/tree/main/Python-Analysis)
